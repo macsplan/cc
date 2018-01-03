@@ -10,10 +10,10 @@ var _underscore = require("underscore");
 
 var _underscore2 = _interopRequireDefault(_underscore);
 
-require("babel/register");
+require('babel/register');
 require("babel/polyfill");
 
-var countryData = require("./../util/country-data");
+var countryData = require('./../util/country-data');
 
 function find(opts) {
     if (!_underscore2["default"].isEmpty(opts) && _underscore2["default"].isObject(opts)) {

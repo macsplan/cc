@@ -1,6 +1,6 @@
 {
   "name": "country-code",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Country Data utility Library, ISO Codes etc...",
   "author": "Christian Kaatz <christian.kaatz@here.com>",
   "license": "MIT",
@@ -19,7 +19,7 @@
     "load-grunt-tasks": "^3.2.0"
   },
   "dependencies": {
-    "babel": "^5.6.14",
+    "babel": "^5.8.38",
     "underscore": "^1.8.3"
   }
 }
